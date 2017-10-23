@@ -1,0 +1,9 @@
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\CheckoutCounter.exe.config
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\CheckoutCounter.exe
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\CheckoutCounter.pdb
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\Unity.Abstractions.dll
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\Unity.Container.dll
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\Unity.Abstractions.pdb
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\bin\Debug\Unity.Container.pdb
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\obj\Debug\CheckoutCounter.exe
+E:\Development\Customers Project\MediaOcean\CheckoutCounter\CheckoutCounter\obj\Debug\CheckoutCounter.pdb
